@@ -48,7 +48,10 @@ I'm a dedicated Computer Science student at COMSATS University with a passion fo
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abdulrehman393&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/AbdulRehman393?theme=tokyonight&hide_border=true)
+ <a href="https://https://github.com/EimanTahir071/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdul Rehman streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman393&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+ <br/>
 
 </div>
 
