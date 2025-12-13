@@ -1,107 +1,114 @@
 # Abdul Rehman Saeed
 
-**Computer Science Student | Software Developer | AI Enthusiast**
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulrehman393&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abdulrehman393?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+### Computer Science Student | Aspiring AI/ML Engineer
+
+[![Profile Views](https://komarev.com/ghpvc/?username=abdulrehman393&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/abdulrehman393)
+[![GitHub Followers](https://img.shields.io/github/followers/abdulrehman393?label=Followers&style=social)](https://github.com/abdulrehman393)
+
+**Learning by building • One project at a time**
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a dedicated Computer Science student at COMSATS University with a passion for software development and emerging technologies. My expertise spans multiple programming languages and frameworks, with a particular focus on building scalable applications and exploring AI innovations.
+Computer Science student at COMSATS University, passionate about AI and Machine Learning. I believe in learning by doing—every concept I learn, I apply through real-world projects.
 
-### 🎯 Current Focus
-- 📚 **Education**: Bachelor of Science in Computer Science at COMSATS University
-- 🔬 **Learning**: Advanced Python programming, Flutter mobile development, and AI/ML technologies
-- 💼 **Specialization**: Full-stack development with C# .NET and Java ecosystems
-- 🚀 **Interests**: Artificial Intelligence, Mobile App Development, and Cloud Technologies
+Currently starting my focused journey to become an AI/ML Engineer.
 
 ---
 
-## 🛠️ Technical Skills
-
-### Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### Frameworks & Technologies
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
----
-
-## 📈 GitHub Analytics
+## 🛠️ Tech Stack
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrehman393&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=abdulrehman393&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)
+### Currently Learning
 
- <a href="https://https://github.com/EimanTahir071/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdul Rehman streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulRehman393&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
- <br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Next in Pipeline
+
+**Machine Learning** • **Deep Learning** • **Gen AI** • **MLOps (Docker, FastAPI)**
 
 </div>
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdulrehman393&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrehman393&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170"/>
+
+</div>
 
 ---
 
-## 🎯 Featured Projects
+## 📈 Contribution Activity
 
-> 💡 **Explore my repositories to see practical applications of my skills in software development, algorithms, and emerging technologies.**
-
----
-
-
-
-
-## 📈 Activity Graph
-
-[![Abdul Rehman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdulRehman393&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Abdul Rehman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulrehman393&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B)](https://github.com/abdulrehman393)
 
 ---
 
+## 🎯 Projects
 
+<div align="center">
 
+### 🚀 Building in Progress
 
-## 📫 Professional Contact
+*Real-world ML projects coming soon as I learn and build*
+
+**Stay tuned for:**
+- Machine Learning applications
+- Data analysis & visualization
+- Gen AI projects
+- Deployed ML solutions
+
+</div>
+
+---
+
+## 💼 Open To
+
+- 🔍 AI/ML Internship opportunities
+- 🤝 Collaborative learning projects
+- 💡 Mentorship from experienced engineers
+- 🌱 Open-source contributions
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khawaja-abdul-rehman)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khawajaabdulrehman393@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulRehman393)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulrehman393)
 
 </div>
 
 ---
 
-## 🤝 Collaboration & Opportunities
+<div align="center">
 
-I'm actively seeking opportunities to:
-- Collaborate on innovative software projects
-- Contribute to open-source initiatives
-- Connect with fellow developers and tech enthusiasts
-- Explore internship and entry-level development positions
+### 💭 My Approach
+
+*"The best way to learn is by building real things."*
 
 ---
 
-<div align="center">
-
-**"Transforming ideas into elegant code solutions"**
-
-*Feel free to reach out for collaborations, discussions about technology, or any exciting project opportunities!*
+**⭐ From [abdulrehman393](https://github.com/abdulrehman393) • Just getting started, but committed to the journey**
 
 </div>
