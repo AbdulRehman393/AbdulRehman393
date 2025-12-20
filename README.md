@@ -43,7 +43,7 @@ class AIEngineer:
 
 ### 🚀 Quick Highlights
 
-- 🎓 **CS Undergraduate** specializing in AI/ML at COMSATS University
+- 🎓 **Computer Science Student** at COMSATS University
 - 💡 **Learning Philosophy:** Build real projects, not just watch tutorials
 - 🔬 **Current Mission:** Master Python data stack → ML fundamentals → Production AI
 - 🌟 **Seeking:** AI/ML internships, mentorship, and collaborative projects
@@ -178,21 +178,9 @@ class AIEngineer:
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrehman393/abdulrehman393/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulrehman393/abdulrehman393/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdulrehman393/abdulrehman393/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 ## 💭 My Approach
 
-> **"I don't just consume tutorials—I build projects. Every concept I learn gets tested in code. Every mistake becomes a lesson. Every project brings me closer to becoming the AI engineer I aspire to be."**
+> **"Learning by doing. Every line of code is progress. Every project is a lesson. Focused on becoming an AI/ML engineer through consistent practice and real-world problem solving."**
 
 <div align="center">
 
