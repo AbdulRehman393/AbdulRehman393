@@ -1,77 +1,103 @@
-<h1 align="center">Hi 👋, I'm Abdul Rehman Saeed</h1>
-<h3 align="center">Computer Science Student | Aspiring AI/ML Engineer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0080FF&height=200&section=header&text=Abdul%20Rehman%20Saeed&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Learning%20AI%2FML&descAlignY=55&descSize=18" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Learning+AI%2FML+Engineering;Building+Real-World+Projects;Python+%7C+Machine+Learning;Passionate+About+Gen+AI" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Learning+Python+%26+AI%2FML;Aspiring+AI%2FML+Engineer;Building+Projects+as+I+Learn;Open+to+Collaboration" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulrehman393&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/abdulrehman393?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://linkedin.com/in/khawaja-abdul-rehman">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:khawajaabdulrehman393@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=abdulrehman393&label=Profile%20Views&color=00D4FF&style=for-the-badge" />
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+## 🎯 About Me
 
-### 👨‍💻 About Me
+<img align="right" alt="AI Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🎓 Computer Science student at **COMSATS University**
-- 🚀 On a focused journey to become an **AI/ML Engineer**
-- 💡 I believe in **learning by building** real-world projects
-- 🌱 Currently learning **Python, NumPy, Pandas**
-- 🎯 Next up: **Machine Learning, Deep Learning, Gen AI**
-- 💼 Open to **AI/ML internships** and collaborations
-- 📫 Reach me: **khawajaabdulrehman393@gmail.com**
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "Abdul Rehman Saeed"
+        self.role = "Computer Science Student"
+        self.university = "COMSATS University"
+        self.location = "Pakistan"
+        
+    def current_focus(self):
+        return {
+            "learning": ["Python", "NumPy", "Pandas", "ML Algorithms"],
+            "building": ["Data Analysis Projects", "ML Models"],
+            "goal": "AI/ML Engineer Role"
+        }
+    
+    def future_roadmap(self):
+        return ["Scikit-learn", "PyTorch", "Deep Learning", "Gen AI"]
+```
+
+### 🚀 Quick Highlights
+
+- 🎓 **CS Undergraduate** specializing in AI/ML at COMSATS University
+- 💡 **Learning Philosophy:** Build real projects, not just watch tutorials
+- 🔬 **Current Mission:** Master Python data stack → ML fundamentals → Production AI
+- 🌟 **Seeking:** AI/ML internships, mentorship, and collaborative projects
+- ⚡ **Fun Fact:** I debug code better after midnight ☕
 
 <br clear="both">
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Arsenal
 
-<p align="center">
+<div align="center">
 
-### 💻 Currently Learning
-
-<a href="https://www.python.org" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-</a>
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
-</a>
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-</a>
-<a href="https://jupyter.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
-</a>
-
-### 🔮 Next in Pipeline
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+### 💻 Current Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,linux" alt="Current Stack" />
 </p>
+
+<p>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="48" height="48"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="48" height="48"/>
+  </a>
+</p>
+
+### 🔮 Learning Pipeline
+<p>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+</div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Activity
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdulrehman393&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman393&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdulrehman393&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrehman393&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrehman393&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrehman393&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrehman393&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&langs_count=6" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrehman393&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true" />
+</div>
 
 ---
 
@@ -81,20 +107,28 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <h3>🚀 Coming Soon!</h3>
-      <p><i>Building real-world ML projects</i></p>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/python.png" width="60" /><br>
+      <b>Data Analysis</b>
+      <p><i>Exploratory analysis<br>with Python libraries</i></p>
+      <sub>🔄 In Progress</sub>
     </td>
-    <td align="center" width="50%">
-      <h3>📈 In Progress</h3>
-      <p><i>Learning → Building → Deploying</i></p>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/brain.png" width="60" /><br>
+      <b>ML Practice</b>
+      <p><i>Implementing algorithms<br>and learning concepts</i></p>
+      <sub>📚 Learning Phase</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="60" /><br>
+      <b>Future Projects</b>
+      <p><i>Gen AI applications<br>and more</i></p>
+      <sub>🔜 Coming Soon</sub>
     </td>
   </tr>
 </table>
 
-**Stay tuned for:**
-
-🤖 Machine Learning Applications • 📊 Data Analysis & Visualization • 🧠 Gen AI Projects • 🐳 Dockerized ML Solutions
+**Building projects as I learn** • **Quality over quantity** • **Real implementations, not just theory**
 
 </div>
 
@@ -103,70 +137,91 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdulrehman393&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulrehman393&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
-## 💼 What I'm Looking For
+## 💼 Open For Opportunities
 
-<table align="center">
+<div align="center">
+
+<table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/search.png" width="50"/>
-      <br><b>AI/ML Internships</b>
+      <img src="https://img.icons8.com/fluency/96/000000/briefcase.png" width="70"/><br>
+      <b>AI/ML Internships</b><br>
+      <sub>Ready to learn & contribute</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/handshake.png" width="50"/>
-      <br><b>Collaborations</b>
+      <img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="70"/><br>
+      <b>Project Collaboration</b><br>
+      <sub>Open source & research</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/idea.png" width="50"/>
-      <br><b>Mentorship</b>
+      <img src="https://img.icons8.com/fluency/96/000000/student-male.png" width="70"/><br>
+      <b>Mentorship</b><br>
+      <sub>Guidance from industry pros</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="50"/>
-      <br><b>Open Source</b>
+      <img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="70"/><br>
+      <b>Freelance Work</b><br>
+      <sub>Data analysis & automation</sub>
     </td>
   </tr>
 </table>
 
+### 📫 Best Way to Reach Me
+**💌 Email:** khawajaabdulrehman393@gmail.com | **💼 LinkedIn:** [Connect Here](https://linkedin.com/in/khawaja-abdul-rehman)
+
+</div>
+
 ---
 
-## 🌐 Connect With Me
+## 🐍 Contribution Graph
 
-<p align="center">
-  <a href="https://linkedin.com/in/khawaja-abdul-rehman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:khawajaabdulrehman393@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/abdulrehman393" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrehman393/abdulrehman393/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulrehman393/abdulrehman393/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdulrehman393/abdulrehman393/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 💭 My Approach
+
+> **"I don't just consume tutorials—I build projects. Every concept I learn gets tested in code. Every mistake becomes a lesson. Every project brings me closer to becoming the AI engineer I aspire to be."**
+
+<div align="center">
+
+### 🌟 Core Values
+
+**📖 Continuous Learning** • **🔨 Building Over Watching** • **🤝 Community Contribution** • **💡 Problem-Solving Focus**
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💭 My Philosophy
+### 🤝 Let's Connect & Build Together
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20learn%20is%20by%20building%20real%20things" alt="Quote" />
+<p>
+  <a href="https://linkedin.com/in/khawaja-abdul-rehman">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:khawajaabdulrehman393@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/abdulrehman393">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-### 🐍 Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0080FF&height=120&section=footer" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrehman393/abdulrehman393/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulrehman393/abdulrehman393/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdulrehman393/abdulrehman393/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-**⭐️ From [abdulrehman393](https://github.com/abdulrehman393) with 💙 • Just getting started, but committed to the journey**
+**⭐ If you find my journey inspiring, consider following along!** • *Last Updated: December 2024*
 
 </div>
