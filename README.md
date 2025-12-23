@@ -288,7 +288,9 @@ belief: consistency > intensity
 
 ### 💬 Personal Mantra
 
-> *"Every line of code is progress. Every project is a lesson. Every challenge is an opportunity.<br/>I'm not just learning AI/ML—I'm building my future, one commit at a time."*
+> *"The best time to plant a tree was 20 years ago. The second best time is now."*
+>
+> This is why I'm learning, building, and growing—one commit at a time.
 
 </div>
 
