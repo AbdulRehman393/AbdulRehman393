@@ -53,7 +53,7 @@ class AIEngineer:
             "interests": ["Deep Learning", "Gen AI", "MLOps"]
         }
     
-    def goals_2025(self):
+    def goals_2026(self):
         return [
             "Master ML fundamentals",
             "Build 10+ AI/ML projects",
