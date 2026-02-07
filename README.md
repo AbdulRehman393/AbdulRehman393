@@ -315,7 +315,7 @@ belief: consistency > intensity
 ### 📬 Best Way to Reach Me
 
 **💼 Professional Inquiries:** [LinkedIn](https://linkedin.com/in/khawaja-abdul-rehman)  
-**📧 Direct Contact:** khawajaabdulrehman393@gmail.com  
+**📧 Direct Contact:** khawajaabdulrehman393@gmail.com
 **💻 Collaboration:** Open an issue or discussion on GitHub
 
 <br/>
