@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0080FF&height=250&section=header&text=Abdul%20Rehman%20Saeed&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Aspiring%20AI/ML%20Engineer&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0080FF&height=250&section=header&text=Abdul%20Rehman%20Saeed&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20|%20Aspiring%20AI/ML%20Engineer&descAlignY=60&descSize=20" />
 </div>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/khawaja-abdul-rehman">
+  <a href="https://www.linkedin.com/in/khawaja-abdul-rehman-24088b266">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
   </a>
   <a href="mailto:khawajaabdulrehman393@gmail.com">
@@ -27,7 +27,6 @@
 
 <br/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
@@ -162,50 +161,6 @@ class AIEngineer:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Project Portfolio
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <br/>
-      <img src="https://img.icons8.com/fluency/96/000000/python.png" width="80" />
-      <br/><br/>
-      <h3>📊 Data Analysis</h3>
-      <p><i>Exploratory analysis with<br/>Pandas, NumPy & Visualization</i></p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge" />
-    </td>
-    <td align="center" width="33%">
-      <br/>
-      <img src="https://img.icons8.com/fluency/96/000000/brain.png" width="80" />
-      <br/><br/>
-      <h3>🤖 ML Models</h3>
-      <p><i>Implementing algorithms<br/>from scratch & with libraries</i></p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge" />
-    </td>
-    <td align="center" width="33%">
-      <br/>
-      <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80" />
-      <br/><br/>
-      <h3>🚀 Gen AI Apps</h3>
-      <p><i>LLM-powered applications<br/>and innovative solutions</i></p>
-      <br/>
-      <img src="https://img.shields.io/badge/Status-Coming%20Soon-red?style=for-the-badge" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-**🎨 Building with purpose** • **🔥 Learning in public** • **⚡ Quality over quantity**
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 💼 What I'm Looking For
 
 <div align="center">
@@ -290,7 +245,7 @@ belief: consistency > intensity
 
 > *"The best time to plant a tree was 20 years ago. The second best time is now."*
 >
-> This is why I'm learning, building, and growing—one commit at a time.
+> Learning, building, and growing—one commit at a time.
 
 </div>
 
@@ -300,7 +255,7 @@ belief: consistency > intensity
 
 <div align="center">
 
-<a href="https://linkedin.com/in/khawaja-abdul-rehman">
+<a href="https://www.linkedin.com/in/khawaja-abdul-rehman-24088b266">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge" height="40" />
 </a>
 <a href="mailto:khawajaabdulrehman393@gmail.com">
@@ -314,8 +269,8 @@ belief: consistency > intensity
 
 ### 📬 Best Way to Reach Me
 
-**💼 Professional Inquiries:** [LinkedIn](https://www.linkedin.com/in/khawaja-abdul-rehman-24088b  
-**📧 Direct Contact:** khawajaabdulrehman393@gmail.com
+**💼 Professional Inquiries:** https://www.linkedin.com/in/khawaja-abdul-rehman-24088b266  
+**📧 Direct Contact:** khawajaabdulrehman393@gmail.com  
 **💻 Collaboration:** Open an issue or discussion on GitHub
 
 <br/>
@@ -324,11 +279,11 @@ belief: consistency > intensity
 
 <br/>
 
-**⭐ If my journey resonates with you, consider following along!**  
+⭐ *If my journey resonates with you, consider following along!*  
 *Building in public • Learning together • Growing consistently*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0080FF&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0080FF&height=150§ion=footer" />
 
 </div>
