@@ -50,7 +50,7 @@ class AIEngineer:
             "ai_ml": ["LangChain", "RAG", "ChromaDB", "LLMs"],
             "learning": ["NumPy", "Pandas", "ML Algorithms"],
             "tools": ["Git", "VS Code", "Jupyter", "Linux"],
-            "interests": ["Deep Learning", "GenAI", "Agentic AI", "MLOps"]
+            "interests": ["GenAI", "Agentic AI", "RAG", "FastAPI", "MLOps"]
         }
 
     def goals_2026(self):
@@ -264,8 +264,13 @@ belief: consistency > intensity
 
 ### 💬 Personal Mantra
 
-> *"The best time to plant a tree was 20 years ago. The second best time is now."*
->
+> *"Perfection is not attainable, but if we chase 
+perfection, we can catch excellence."*  
+> — Vince Lombardi
+
+> *"The best time to plant a tree was 20 years ago. 
+The second best time is now."*
+
 > Learning, building, and growing — one commit at a time.
 
 </div>
