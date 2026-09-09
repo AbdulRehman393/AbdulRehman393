@@ -165,7 +165,7 @@ class AIEngineer:
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abdulrehman393&show_icons=true&count_private=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=0" alt="Abdul Rehman's GitHub Stats" />
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=abdulrehman393&show_icons=true&hide_border=true&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Abdul Rehman's GitHub Stats" />
 
 <img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=abdulrehman393&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
 
