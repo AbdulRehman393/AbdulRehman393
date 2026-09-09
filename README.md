@@ -175,7 +175,7 @@ class AIEngineer:
 
 <img width="49%" height="195px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdulrehman393&layout=compact&hide_border=true&title_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
 
-<img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=abdulrehman393&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&radius=8" />
+<img width="49%" height="195px" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=abdulrehman393&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&radius=8" />
 
 </div>
 
