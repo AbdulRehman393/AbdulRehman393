@@ -189,16 +189,7 @@ class AIEngineer:
   <img src="https://raw.githubusercontent.com/abdulrehman393/abdulrehman393/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🔨 Currently Working On
-
-### 🎓 Smart Scholarship & Funding Advisor — *Final Year Project*
-AI-powered platform helping Pakistani students discover and match with scholarship opportunities through ML-based ranking and a RAG chatbot.
-
-`Python` `LangChain` `ChromaDB` `Groq API (Llama 3)` `ReactJS` `Supabase`
-
-🚧 *In development — live link coming soon*
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
 ## 💼 What I'm Looking For
 
